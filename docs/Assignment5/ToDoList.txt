@@ -1,0 +1,7 @@
+do the launcry,4
+change the cat litter box,10
+run the robot vaccum,3
+save electricity,2
+fix the HVAC,1
+tell microsoft they are burning their own people out,1
+rethink whether you should tell your boss they are running on fumes,1
